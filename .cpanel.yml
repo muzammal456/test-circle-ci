@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=public_html/github
-    - /bin/cp index.html $DEPLOYPATH
