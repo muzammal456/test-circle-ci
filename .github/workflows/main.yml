@@ -13,8 +13,8 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Run a one-line script
-      run: echo Hello, world!
+      run: echo Hello, world!ssss
     - name: Run a multi-line script
       run: |
-        echo Add other actions to builds,
+        echo Add other actions to build,
         echo test, and deploy your project.
