@@ -1,5 +1,5 @@
-<?php
-echo "hello good s";
+<?php 
+echo "hello good"; 
 
 ?>
 
