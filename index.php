@@ -3,6 +3,7 @@
 echo "Yes";
 echo "Good<br>";
 echo "Deploye";
+echo "PR event";
 ?>
 
 
