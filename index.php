@@ -1,6 +1,6 @@
 <?php
 
-echo "Deployment to changes";
+echo "Deployment to deployment";
 
 
 ?>
