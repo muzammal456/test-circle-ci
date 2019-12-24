@@ -1,7 +1,8 @@
 <?php
 
 echo "Yes";
-echo "Good";
+echo "Good<br>";
+echo "Deploye";
 ?>
 
 
