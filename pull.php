@@ -2,7 +2,7 @@
 
 // Use in the “Post-Receive URLs” section of your GitHub repo.
 
-    exec("git pull origin master");
+    exec("cd /var/www/html/test-circle-ci && git pull origin master");
 
 
 ?>
