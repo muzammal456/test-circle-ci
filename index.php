@@ -1,6 +1,6 @@
 <?php
 
-echo "Deployed";
+echo "Deployeds";
 
 
 ?>
